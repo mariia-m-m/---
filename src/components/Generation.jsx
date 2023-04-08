@@ -1,6 +1,6 @@
 const Generation = () => {
   const generate = event => {
-    const result = Math.floor(Math.random() * 336);
+    const result = Math.floor(Math.random() * 367);
     return result;
   };
 
